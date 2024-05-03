@@ -1,4 +1,6 @@
 # PixelverseXYZ Clicker Bot
+![App Screenshot](https://github.com/katzura1/Pixelversexyz-Bot/blob/main/SCR-20240503-rbk.png?raw=true)
+
 
 This script automates clicks in the PixelverseXYZ app. It uses the developer console to identify and extract necessary tokens and modifies the script to automate the clicker functionality.
 
