@@ -100,7 +100,7 @@ try:
                                 response = response.json()
                                 level = response['level']
                                 levelUpPrice = response['levelUpPrice']
-                                clicksCount = response['clicksCount']
+                                clicksCount = clicksCount - levelUpPrice
                                 logger.success("Pet level up to "+str(level)+", next level price: "+str(levelUpPrice))
                             else:
                                 break;
